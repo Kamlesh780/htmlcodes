@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      RESUME
+     </head>
+    <body>
+        <h1>ADITI JHA</h1>
+        <img src="C:\Users\COMPAQ\Desktop\Aditi" alt="Aditi Jha">
+        <h3>SKILLS :-</h3>
+        <ul>
+            <li>quick learner</li>
+            <li>speaking</li>
+            <li>adaptiblity</li>
+             <li>flexible to languages like c, c++ and python</li>
+        </ul>
+        <h3>ACHIEVEMENTS :-</h3>
+        <ol>
+            <li>successfully attended workshop on AI</li>
+            <li>successfully participated in SIH 2020</li>
+             <li>2nd prize in talent hunt competition</li>
+        </ol>
+    </body>
+</html>
